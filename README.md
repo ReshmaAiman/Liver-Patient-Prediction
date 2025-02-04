@@ -1,5 +1,5 @@
 # Liver-Patient-Prediction
-### Creting a predictive model with implementation of different classifier on Liver Patient dataset to predict the luver diseases.
+### Creating a predictive model with implementation of different classifier on Liver Patient dataset to predict the liver diseases.
 ### For EDA performed the Univariate, Bivariate and Multivariate analysis.
 ### After preprocessing, confirmed that there is no high correlation between each columns.
 ### After noticed that the data is imbalanced, tried with oversampling and tried checking with different models to get the best model.
